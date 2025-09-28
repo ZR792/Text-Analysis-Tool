@@ -64,14 +64,16 @@ TEXT_ANALYSIS_TOOL/
    cd TEXT_ANALYSIS_TOOL
 
 2. Create a virtual environment (recommended):
-  python -m venv venv
-  source venv/bin/activate   # On Linux/Mac
-  venv\Scripts\activate      # On Windows
-
-  3. Install dependencies:
-  pip install -r requirements.txt
-
-4. Add your API keys in config.py.
+``
+python -m venv venv
+source venv/bin/activate   # On Linux/Mac
+venv\Scripts\activate      # On Windows
+``
+4. Install dependencies:
+``
+pip install -r requirements.txt
+``
+5. Add your API keys in config.py.
    
 
 ### 📌 Example Use Cases
