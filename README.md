@@ -72,7 +72,7 @@ TEXT_ANALYSIS_TOOL/
   pip install -r requirements.txt
 
 4. Add your API keys in config.py.
-  ```bash
+   
 
 ### 📌 Example Use Cases
 
